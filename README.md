@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm <name></h1>
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
 <h3 align="center"><subtitle></h3>
-
-- 📫 How to reach me **<email>**
-
-- 📄 Know about my experiences [<resume_link>.com](<resume_link>.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
